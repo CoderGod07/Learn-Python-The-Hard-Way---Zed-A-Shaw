@@ -1,13 +1,14 @@
 name = "Kush"
 age = 22
 height = 174 #cms
-InchestoCms = 
+#InchestoCms = 
 weight = 72 #kgs
 eyes = "brown"
 teeth = 'white'
 hair = 'brown'
 
 print(f"Let's talk about {name}")
+print("let's talk about", name) # another way
 print(f"He's {height} cms tall")
 print(f"He's {weight} kgs heavy")
 print("Actually that's not too heavy")
