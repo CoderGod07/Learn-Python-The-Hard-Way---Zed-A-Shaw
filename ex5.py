@@ -1,7 +1,6 @@
 name = "Kush"
 age = 22
 height = 174 #cms
-#InchestoCms = 
 weight = 72 #kgs
 eyes = "brown"
 teeth = 'white'
