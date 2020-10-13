@@ -12,7 +12,7 @@ print("Operating the file...")
 target = open(filename, 'w')
 
 print('Truncating the file. Goodbye')
-target.truncate()
+# target.truncate()  # no need to truncate when using w mode since it overwrites the file
 
 print("Now I'm going to ask for three lines")
 
