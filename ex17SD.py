@@ -1,0 +1,1 @@
+from sys import argv ; from os.path import exists ;  inFile = open(ex17.txt).read() ; outFile = open(ex17_.txt, "w").write(inFile)
